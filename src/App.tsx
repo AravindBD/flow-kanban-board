@@ -51,10 +51,7 @@ const App = () => {
       <div className="mx-auto flex max-w-7xl flex-col gap-6">
         <header className="flex flex-col justify-between gap-4 border-b border-slate-200 pb-6 sm:flex-row sm:items-end">
           <div>
-            <p className="text-sm font-semibold uppercase tracking-wide text-cyan-700">
-              Task Management
-            </p>
-            <h1 className="mt-2 text-3xl font-bold text-slate-950 sm:text-4xl">
+            <h1 className="text-3xl font-bold text-slate-950 sm:text-4xl">
               Kanban Board
             </h1>
           </div>
